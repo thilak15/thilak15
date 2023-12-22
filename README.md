@@ -3,7 +3,7 @@
 ### 🎓 Education 📚
 - 🏫 **University of Florida, Gainesville, FL** 
    - 📘 **Masters in Computer and Information Sciences** (Aug 2022 - May 2024)
-   - 🌟 **GPA:** 3.72/4.0
+   - 🌟 **GPA:** 3.74/4.0
 - 🏫 **Vardhaman College of Engineering, Hyderabad, India**
    - 📘 **Bachelor of Computer Science** (Aug 2017 - May 2021)
    - 🌟 **GPA:** 8.35/10.0
