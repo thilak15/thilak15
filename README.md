@@ -19,7 +19,7 @@ I’m passionate about Software and Data Engineering! 🌐💻 I love crafting e
 
 ### 🛠️ Skills & Tools 🔧
 - **Languages:** Python 🐍, C# 🖥️, C++ 💻, Dart 🎯, MySQL 🛢️, Java ☕, JavaScript 🌐.
-- **Frameworks:** Entity Framework, Flask 🌶️, Flutter 🦋, ASP.NET Core, TensorFlow 🧠, Angular 🅰️.
+- **Frameworks:** Entity Framework, Django, Flutter 🦋, ASP.NET Core, TensorFlow 🧠, React.
 - **Tools/Libraries:** Tableau 📊, PySpark 🔥, Apache Airflow 🌬️, Numpy 🧮, Pandas 🐼, Docker 🐳, Postman 📬.
 - **Cloud Technologies:** AWS ☁️, Azure ☁️.
 - **Methodologies and Practices:** Linux System Administration 🐧, CI/CD 🔄.
