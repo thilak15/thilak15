@@ -18,7 +18,8 @@ I’m passionate about Software and Data Engineering! 🌐💻 I love crafting e
 - [LinkedIn](https://www.linkedin.com/in/daggula-thilak-reddy/) 🌐
 
 ### 🛠️ Skills & Tools 🔧
-- **Languages:** Python 🐍, C# 🖥️, C++ 💻, Dart 🎯, MySQL 🛢️, Java ☕, JavaScript 🌐.
+- **Languages:** Python 🐍, C# 🖥️, C++ 💻, Dart 🎯, Java ☕, JavaScript 🌐.
+- ** Databases:** Mysql,PostgreSQL,MongoDB
 - **Frameworks:** Entity Framework, Django, Flutter 🦋, ASP.NET Core, TensorFlow 🧠, React.
 - **Tools/Libraries:** Tableau 📊, PySpark 🔥, Apache Airflow 🌬️, Numpy 🧮, Pandas 🐼, Docker 🐳, Postman 📬.
 - **Cloud Technologies:** AWS ☁️, Azure ☁️.
